@@ -1,6 +1,6 @@
 # Tensorflow-Certification-Hacks
 
-![Tensorflow Certification](Assets/front.jpg)
+![Tensorflow Certification](Assets/front.jpeg)
 
 Preparation for Tensorflow Certification
 
